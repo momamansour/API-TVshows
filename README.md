@@ -13,7 +13,7 @@ This operation can be considered as an on-demand 'import' operation to get the d
 
 To import a tv show, the API accepts a query parameter called "name".: 
 
-name : title for the tv show
+- name : title for the tv show
 
 After importing the collection, the service should return a response containing at least the following information:
 
