@@ -2,7 +2,7 @@
 
 This is a Flask-Restx data service that allows a client to read and store some TV Shows, and allow the consumers to access the data through a REST API.
 
-It is based on The TV Maze API, which provides a detailed list of TV shows. You can explore the TVmaze API using the following links:
+It uses available data on The TV Maze API, which provides a detailed list of TV shows. You can explore the TVmaze API using the following links:
 
 - The source URL: http://api.tvmaze.com/shows
 - Documentations on API Call Structure: https://www.tvmaze.com/api
